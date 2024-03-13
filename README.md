@@ -1,7 +1,10 @@
 ### <div align="center">Hi 👋, I'm Ritesh Ojha</div>  
   
 
-- 🔭 I’m currently working as Freelancer  
+- 🔭 I’m currently working as Freelancer
+
+
+- 🌱 I’m currently learning Cloud, Data Engineering
   
 
 - 📗 I love to learn more and I am open to new technology.  
