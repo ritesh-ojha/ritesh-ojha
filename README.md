@@ -1,20 +1,13 @@
 ### <div align="center">Hi 👋, I'm Ritesh Ojha</div>  
   
-
+- 🔭 I’m currently working as a **Data Analytics Engineer at Air Arabia**
+- 🔭 I’m also a Freelancer
+- 📗 I love to learn more and I am open to exploring new technologies  
+- 👨‍💻 All of my projects are available at [My Portfolio](https://ritesh-ojha.github.io)  
+- 📫 Reach me at **riteshojha2002@gmail.com** 
 - 🔭 I’m currently working as Freelancer
 
 
-- 🌱 I’m currently learning Cloud, Data Engineering
-  
-
-- 📗 I love to learn more and I am open to new technology.  
-  
-
-- 👨‍💻 All of my projects are available at https://ritesh-ojha.github.io  
-  
-
-- 📫 How to reach me riteshojha2002@gmail.com  
-  
 
 <br/>  
 
